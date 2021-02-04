@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f6f5f5;
+}
+
+.navbar {
+  background-color: #007aff;
+}
+
+.salir {
+  text-align: center;
+  background-color: #dc3546;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  width: 8vw;
+}
+
+.salir:hover {
+  text-decoration: none;
+  background-color: red;
+  color: white;
+}
+
+.textsalir {
+  color: white;
+  font-weight: bold;
+}
+
+.textsalir:hover {
+  color: white;
+  text-decoration: none;
+}
